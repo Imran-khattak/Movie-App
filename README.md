@@ -26,8 +26,14 @@ Dart Programming Language: The app is developed using Dart, which is the program
 ## Screenshots
 
 <p align="center">
-  <img src="assets/profile.png" alt="Screenshot" width="300" height="400">
+  <img src="assets/home.png" alt="Home Screen" width="250"/>
+  <img src="assets/details.png" alt="Details Screen" width="250"/>
+  <img src="assets/details1.png" alt="Movie Details Screen" width="250"/>
+    <img src="assets/search.png" alt="Search Screen" width="250"/>
+  <img src="assets/explore.png" alt="Top Rate Screen" width="250"/>
 </p>
+
+
 
 # Contributing
 Contributions are welcome! If you'd like to contribute, please follow these guidelines:
