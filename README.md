@@ -60,7 +60,7 @@ Thanks to the Flutter community for providing excellent resources and support.
 Contact
 If you have any questions or suggestions, feel free to reach out:
 
-Email: imrankhattak1212@example.com
+Email: imrankhattak1212@gmail.com
 
 GitHub: Imran-khattak
 
